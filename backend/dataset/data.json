@@ -1,0 +1,16 @@
+{
+  "products": [
+    { "id": "P101", "name": "Classic T-Shirt", "sold": 120, "stock": 50 },
+    { "id": "P102", "name": "Denim Jeans", "sold": 90, "stock": 20 },
+    { "id": "P103", "name": "Leather Jacket", "sold": 75, "stock": 15 },
+    { "id": "P104", "name": "Sneakers", "sold": 150, "stock": 40 },
+    { "id": "P105", "name": "Sports Shorts", "sold": 60, "stock": 30 },
+    { "id": "P106", "name": "Formal Shirt", "sold": 80, "stock": 25 }
+  ],
+  "orders": [
+    { "id": "12345", "status": "Shipped" },
+    { "id": "12346", "status": "Processing" },
+    { "id": "12347", "status": "Delivered" },
+    { "id": "12348", "status": "Cancelled" }
+  ]
+}

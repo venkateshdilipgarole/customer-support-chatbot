@@ -1,2 +1,2 @@
 # Customer Support Chatbot
-A chatbot for an E-commerce Clothing Site.
+A chatbot for an E-commerce Clothing Sitegit.
